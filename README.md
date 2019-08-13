@@ -45,6 +45,12 @@ puedes pedirlo rellenando una issue:
 - [Alojamiento, dominios, grupos de discusión](https://github.com/som-labs/community/issues/new?template=peticion-de-infrastructura.md).
 - [Información, documentación, formación](https://github.com/som-labs/community/issues/new?template=peticion-de-informacion.md).
 
+## Formaciones internas
+
+El Equipo Técnico ha realizado una serie de formaciones internas que están disponibles para todo el mundo:
+- [Tecnologías de Front-end en Som Energia para Pythoner@s](https://som-energia.github.io/somenergia-courses/2018-07-19-frontend/)
+- [Transición a Python3](https://som-energia.github.io/somenergia-courses/2019-07-24-python3transition/)
+
 ## Nota sobre el idioma
 
 **La lista de correos y esta página de bienvenida** las mantenemos **en castellano**.
